@@ -96,4 +96,4 @@ fai questi passaggi solo se non dovesse funzionare
 ***
 ***
 
-*Se dopo avere letto queste belle istruzioni che ho scritto con impegno non hai ancora capito niente ti consiglio di chiedere all' intelligenza artificiale Claude (By antropich)*
+*Se dopo avere letto queste belle istruzioni che ho scritto con impegno non hai ancora capito niente ti consiglio di chiedere all' [intelligenza artificiale Claude](https://claude.ai/) (By antropich)*
