@@ -2,7 +2,7 @@
 [![Web Site](https://img.shields.io/badge/Web%20Site-https://www.designarena.ai/-ffffff?logo=googlechrome&style=flat&color=000000&logoColor=4285F4)](https://www.designarena.ai/)
 
 
-![GitHub Release](https://img.shields.io/github/v/release/PiBOH/Design-Arena-AI_APK-android?cacheSeconds=10&link=https%3A%2F%2Fgithub.com%2FPiBOH%2FCodeLearn%2Freleases)
+[![GitHub Release](https://img.shields.io/github/v/release/PiBOH/Design-Arena-AI_APK-android?cacheSeconds=10&link=https%3A%2F%2Fgithub.com%2FPiBOH%2FCodeLearn%2Freleases)](https://github.com/PiBOH/Design-Arena-AI_APK-android/releases/latest)
 ![GitHub Release Date](https://img.shields.io/github/release-date/PiBOH/Design-Arena-AI_APK-android?display_date=published_at&style=flat)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/PiBOH/Design-Arena-AI_APK-android/total?style=flat&logo=GitHub&cacheSeconds=1)
 ![GitHub forks](https://img.shields.io/github/forks/PiBOH/Design-Arena-AI_APK-android?style=social&logo=GitHub&cacheSeconds=5)
