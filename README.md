@@ -1,4 +1,4 @@
-![Android 14+](https://img.shields.io/badge/Android%2014+-ffffff?logo=android&style=flat&color=000000&logoColor=3DDC84)
+![Android 14+](https://img.shields.io/badge/Android%2012+-ffffff?logo=android&style=flat&color=000000&logoColor=3DDC84)
 [![Web Site](https://img.shields.io/badge/Web%20Site-https://www.designarena.ai/-ffffff?logo=googlechrome&style=flat&color=000000&logoColor=4285F4)](https://www.designarena.ai/)
 
 
